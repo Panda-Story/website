@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Panda-Story/website/refs/heads/main/public/panda-story-full-logo.png" width="150" height="150" alt="PandaのStory Full Logo" />
-
 # `Panda の Story`
+
+<img src="https://raw.githubusercontent.com/Panda-Story/website/refs/heads/main/public/panda-story-full-logo.png" width="150" height="150" alt="PandaのStory Full Logo" />
 
 <strong>Pixel World of Pandas, Stories, and Connections</strong>
 </div>
