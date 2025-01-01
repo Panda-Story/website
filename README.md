@@ -5,8 +5,11 @@
 # `Panda の Story`
 
 <strong>Pixel World of Pandas, Stories, and Connections</strong>
+
 </div>
 
-Game Docs: [https://panda-story.gitbook.io](https://panda-story.gitbook.io)
-
-Discord: [https://discord.gg/kzWFtVbJ92](https://discord.gg/kzWFtVbJ92)
+<div align="center">
+    <div><b>Game Docs: </b><a href="https://panda-story.gitbook.io">panda-story.gitbook.io</a></div>
+    <br>
+    <div><b>Discord: </b><a href="https://discord.gg/kzWFtVbJ92">discord.gg/kzWFtVbJ92</a></div>
+</div>
