@@ -1,75 +1,9 @@
-# Nuxt Minimal Starter
+# Panda の Story Website
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+<div style="width: 100%; text-align: center;"><img style="max-width: 150px; margin: 0 auto 8px auto;" src="https://raw.githubusercontent.com/Panda-Story/website/refs/heads/main/public/panda-story-full-logo.png" alt="PandaのStory Full Logo" />
+<div>Pixel World of Pandas, Stories, and Connections.</div>
+</div>
 
-## Setup
+Game Docs: [https://panda-story.gitbook.io](https://panda-story.gitbook.io)
 
-Make sure to install dependencies:
-
-```bash
-# npm
-npm install
-
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
-```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+Discord: [https://discord.gg/kzWFtVbJ92](https://discord.gg/kzWFtVbJ92)
