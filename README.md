@@ -1,9 +1,11 @@
-# Panda の Story Website
+<div align="center">
 
-<div style="width: 100%; text-align: center;"><img style="max-width: 150px; margin: 0 auto 8px auto;" src="https://raw.githubusercontent.com/Panda-Story/website/refs/heads/main/public/panda-story-full-logo.png" alt="PandaのStory Full Logo" />
-<div>Pixel World of Pandas, Stories, and Connections.</div>
+<img src="https://raw.githubusercontent.com/Panda-Story/website/refs/heads/main/public/panda-story-full-logo.png" width="150" height="150" alt="PandaのStory Full Logo" />
+
+# `Panda の Story`
+
+<strong>Pixel World of Pandas, Stories, and Connections</strong>
 </div>
 
 Game Docs: [https://panda-story.gitbook.io](https://panda-story.gitbook.io)
-
 Discord: [https://discord.gg/kzWFtVbJ92](https://discord.gg/kzWFtVbJ92)
