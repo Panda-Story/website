@@ -8,4 +8,5 @@
 </div>
 
 Game Docs: [https://panda-story.gitbook.io](https://panda-story.gitbook.io)
+
 Discord: [https://discord.gg/kzWFtVbJ92](https://discord.gg/kzWFtVbJ92)
